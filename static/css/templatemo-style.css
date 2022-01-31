@@ -324,7 +324,7 @@ hr {
 
 /* START ABOUT */
 .tm-about {
-  background: url('../images/about-bg.jpg');
+  background: url('../images/test1.jpg');
   background-size: cover;
   background-attachment: fixed;
   background-position: center center;
@@ -352,7 +352,7 @@ hr {
   background: #202020;
 }
 .facebook { background: #3b5998; }
-.twitter { background: #55acee; }
+.twitter { background: #1a8108; }
 .pinterest { background: #cc2127; }
 .media {
   padding: 80px 40px 80px 40px;
